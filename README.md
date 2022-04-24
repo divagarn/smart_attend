@@ -1,4 +1,4 @@
-### Smart Attendance System using Face recognition and RFID
+### Smart Attendance System  ### by Dc ###
 ```
 Project has been developed and executed on Raspberry PI.
 Components used:
@@ -8,10 +8,7 @@ Components used:
 4.PI Camera
 5.Raspberry PI 4
 ```
-Youtube link:
-```
-https://youtu.be/M4tkA5guvvs
-```
+
 
 (For storing the output in database install SQL-Lite Studio)
 ```
@@ -19,7 +16,7 @@ https://youtu.be/M4tkA5guvvs
 
 2.A GUI(interface) will open up
 ```
-![Main Screen](Main.png)
+
 ```
 (i) Enter the id
 
@@ -54,12 +51,10 @@ just click on track button,it will track and update the database.
 
 6.Output will be displayed on GUI and also on LCD.
 ```
-![Output on database](Output1.png)
-
-![Output on LCD](Output2.jpeg)
+!
 ```
 
 7.The future development of the project is to make the PI run automatically.
 ```
 
-### Smart-Attendance-System-using-Face-Recognition-and-RFID
+### Smart-Attendance-System_###
