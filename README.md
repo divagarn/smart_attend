@@ -51,7 +51,6 @@ just click on track button,it will track and update the database.
 
 6.Output will be displayed on GUI and also on LCD.
 ```
-!
 ```
 
 7.The future development of the project is to make the PI run automatically.
